@@ -26,6 +26,8 @@ dependencies:
   url_launcher: ^6.3.0
   sqflite: ^2.3.2 # Added for SQLite integration
   path: ^1.8.3 # Added for SQLite integration
+  curved_navigation_bar: ^1.0.3
+  
 
 dev_dependencies:
   flutter_test:
